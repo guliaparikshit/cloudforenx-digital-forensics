@@ -1,0 +1,16 @@
+CLOUDFORENX: PAPER-MATCHED STREAMLIT REBUILD
+===========================================
+1) Extract this ZIP.
+2) Open this folder (the one that contains app.py) in File Explorer.
+3) Type cmd in the File Explorer address bar and press Enter.
+4) Run:
+   py -m pip install -r requirements.txt
+5) Then run:
+   py -m streamlit run app.py
+6) Visit http://localhost:8501
+
+SIDEBAR (same as research-paper screenshots):
+Upload Evidence | Dashboard | Verify Integrity | Chain of Custody | Guidance | Awareness Quiz
+
+The name matches the paper: CloudForenX (not Evidentia).
+This is a reconstructed, temporary, educational research demo. Use sample files only.
